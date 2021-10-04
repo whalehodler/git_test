@@ -1,0 +1,1 @@
+This is whalehodler's first git project!
